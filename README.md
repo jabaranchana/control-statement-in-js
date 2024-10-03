@@ -11,3 +11,5 @@ if the total cost exceeds more than 500 then 10% discount is given
 display menu 
 get the choice along with no of quantity and display the cost 
 also the same after discount
+
+5)Given two integers M and N,calculate the product of all odd integers from M and N inclusive.If M is greater than N, return 1 or display an appropriate message
