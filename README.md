@@ -12,4 +12,8 @@ display menu
 get the choice along with no of quantity and display the cost 
 also the same after discount
 
+3)A Chocolate factory is packing chocolates into the packets.The chocolate packets here represent an array of N number of integer values. The task ios to find the empty packects(0) of chocolate and push it to the end of the conveyor belt(Array).
+
+4)A Toy factory is packing toys into boxes.Each box contain either a toy or be empty.Write a function to move all empty boxes to the end of the array while maintaining the order of the toys, and also return the count of empty ,boxes.
+
 5)Given two integers M and N,calculate the product of all odd integers from M and N inclusive.If M is greater than N, return 1 or display an appropriate message
